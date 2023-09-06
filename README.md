@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Upgrad Melanoma Detection Assignment
 
 
 ## Table of Contents
@@ -52,7 +52,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@Vasista-Eranki] - feel free to contact me!
+Created by [@Vasista-Eranki] (https://github.com/Vasista-Eranki/) - feel free to contact me!
 
 
 <!-- Optional -->
