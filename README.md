@@ -52,7 +52,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@vasista-eranki] - feel free to contact me!
+Created by [@Vasista-Eranki] - feel free to contact me!
 
 
 <!-- Optional -->
