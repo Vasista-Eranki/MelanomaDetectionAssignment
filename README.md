@@ -1,5 +1,5 @@
-# Project Name
-> Upgrad Melanoma Detection Assignment
+# Upgrad Melanoma Detection Assignment
+> Building a multiclass classification model using a custom convolutional neural network in TensorFlow.
 
 
 ## Table of Contents
@@ -52,7 +52,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@Vasista-Eranki] (https://github.com/Vasista-Eranki/) - feel free to contact me!
+Created by [@Vasista-Eranki](https://github.com/Vasista-Eranki/) - feel free to contact me!
 
 
 <!-- Optional -->
